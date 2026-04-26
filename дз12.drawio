@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="YfC0Bh0OKL9epxOolbPJ">
-    <mxGraphModel dx="2267" dy="1580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1457" dy="1016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,6 +94,9 @@
           <mxGeometry height="60" width="120" x="585" y="930" as="geometry" />
         </mxCell>
         <mxCell id="_8OEhUHRRHu5xr7Mw-lA-42" edge="1" parent="1" source="_8OEhUHRRHu5xr7Mw-lA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_8OEhUHRRHu5xr7Mw-lA-13" value="нет">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dlxo0sZ2sygaH5i7whiD-2" edge="1" parent="1" source="_8OEhUHRRHu5xr7Mw-lA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="_8OEhUHRRHu5xr7Mw-lA-13" value="да">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_8OEhUHRRHu5xr7Mw-lA-12" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="интервью успешно?" vertex="1">

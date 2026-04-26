@@ -212,6 +212,21 @@
         <mxCell id="_8OEhUHRRHu5xr7Mw-lA-67" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="80" width="80" x="1205" y="1650" as="geometry" />
         </mxCell>
+        <mxCell id="dlxo0sZ2sygaH5i7whiD-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="руководитель отдела" vertex="1">
+          <mxGeometry height="30" width="60" x="340" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="dlxo0sZ2sygaH5i7whiD-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="хр отдел" vertex="1">
+          <mxGeometry height="30" width="60" x="575" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="dlxo0sZ2sygaH5i7whiD-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="система" vertex="1">
+          <mxGeometry height="30" width="60" x="930" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="dlxo0sZ2sygaH5i7whiD-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="кандидат" vertex="1">
+          <mxGeometry height="30" width="60" x="1215" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="dlxo0sZ2sygaH5i7whiD-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="айти&amp;nbsp; отдел" vertex="1">
+          <mxGeometry height="30" width="60" x="1490" y="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
